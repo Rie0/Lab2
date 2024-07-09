@@ -21,7 +21,7 @@ public class Main {
         //EX2
 //        int[] numbers = {1,1,1,3,3,5};
 //        int counter=0;
-//        System.out.println("Enter a number to check how many time it occurred in the array.");
+//        System.out.println("Enter a number to check how many times it occurred in the array.");
 //        int userNum=sc.nextInt();
 //        for(int number:numbers){
 //            if (number==userNum){
@@ -114,6 +114,7 @@ public class Main {
 //            }
 //            if (command==4) { //Sort the array() (alphabetically)
 //                Collections.sort(userArray);
+//                System.out.println("Sorting array alphabetically:");
 //                System.out.println(userArray);
 //            }
 //
